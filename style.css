@@ -1,0 +1,26 @@
+body {
+    background-color: hsl(30, 54%, 90%);
+}
+img {
+    width: 80%;
+    height: 80%;
+    text-align: center;
+    margin: 10%;
+    border-radius: 25px
+}
+#boxbig {
+    margin:0 auto;
+    width: 50vw;
+    height: 100vw;
+    border: 8%;
+    background-color: aliceblue;
+    border-radius: 25px
+}
+#preptime {
+    background-color:hsl(330, 100%, 98%) ;
+}
+.text {
+    padding-left: 4%;
+    padding-right: 4%;
+    width: 80%;
+}
